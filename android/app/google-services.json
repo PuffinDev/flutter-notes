@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524550612610",
+    "project_id": "notes-app-flutter-puffindev",
+    "storage_bucket": "notes-app-flutter-puffindev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524550612610:android:a172399ce0f697479b369b",
+        "android_client_info": {
+          "package_name": "xyz.puffindev.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524550612610-96saqa1fo7teejsgnb530vq2tepv0tb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRXcgXVwnLtTTGEwrTezfIM3RkihAveE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524550612610-96saqa1fo7teejsgnb530vq2tepv0tb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
